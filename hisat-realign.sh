@@ -6,6 +6,7 @@
 #requirements - samtools, hisat2, sarscov2 reference genome ('2019-nCoV.fa')
 #also need to to index the reference genome per hisat2 instructions
 # need to set correct path to hisat2 if not in your environment path. I call it directly below.
+# run script in a directory containing tmap-aligned bams and the hisat2 build index for 2019-nCoV
 
 
 for i in *.bam
