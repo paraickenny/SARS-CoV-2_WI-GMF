@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 
 #deals with issue where intermediates of viral RNA replication
 #interfere with consensus calling from .bam file produced by ion torrent tmap.
