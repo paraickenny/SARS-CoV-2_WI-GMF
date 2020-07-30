@@ -1,2 +1,2 @@
 # SARS-CoV-2_WI-GMF
-Data repository for NextStrain build files from SARS-CoV-2 genomes
+Various scripts used at Gundersen Medical Foundation to analzye SARS-CoV-2 genomes and process sequencing files
